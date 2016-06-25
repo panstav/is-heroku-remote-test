@@ -1,0 +1,26 @@
+{
+  "name": "is-heroku-remote-test",
+  "version": "0.0.0",
+  "engines": {
+    "node": "4.4.6",
+    "npm": "2.15.5"
+  },
+  "description": "A remote test for is-heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panstav/is-heroku-remote-test.git"
+  },
+  "author": {
+    "name": "Stav Geffen",
+    "email": "stavgeffen@gmail.com",
+    "url": "http://www.stav.io"
+  },
+  "dependencies": {
+    "@panstav/is-heroku": "0.0.2",
+    "express": "4.14.0"
+  }
+}
