@@ -2,8 +2,8 @@
   "name": "is-heroku-remote-test",
   "version": "0.0.0",
   "engines": {
-    "node": "4.4.6",
-    "npm": "2.15.5"
+    "node": "4.8.4",
+    "npm": "2.15.11"
   },
   "description": "A remote test for is-heroku",
   "main": "index.js",
